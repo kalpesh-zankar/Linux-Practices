@@ -123,9 +123,35 @@ Swap:           2048           0        2048
 
 - 
 - Learned to check system uptime and load average
+
+- 
 -                                                        #uptime
 -                                                            #output---->  10:45:21 up 15 days  3:12 2 users load average: 0.45  0.30  0.25
+
+-                                                        
 -                                                         
+## 7.Document all commands used and their outputs
+
+# Linux Basics Summary
+
+## Environment
+- OS: Ubuntu
+- Platform:  EC2 -t2 micro
+
+## Commands Practiced
+- #pwd     #ls     #cd
+- #mkdir   #touch  #rm
+- #cat     #nano   #less
+- #chmod   #chown
+- #top     #htop   #df   #free
+
+## Key Learnings
+- Root vs Home directory
+- Linux permissions
+- System monitoring basics
+
+## Screenshots
+Attached in screenshots folder.
 
 
 
